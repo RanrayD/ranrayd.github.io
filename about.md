@@ -8,7 +8,8 @@ permalink: /about/
 
 这是我的个人博客，用于记录技术分享和生活感悟。
 
-欢迎关注我的微信公众号：**CyberOutShare**
-`![公众号二维码](/assets/个人公众号二维码.jpg)`
+欢迎关注我的微信公众号：**CyberOutShare**  
+
+![公众号二维码](/assets/wechat-qrcode.jpg)
 
 [GitHub Profile](https://github.com/RanrayD)

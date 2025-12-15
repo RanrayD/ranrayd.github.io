@@ -1,5 +1,5 @@
 title: Ranray's Blog
-email: your-email@example.com
+email: zbw_ray14@163.com
 description: >- # this means to ignore newlines until "baseurl:"
   一名网络安全从业者的个人博客，关联微信公众号——CyberOutShare
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,3 +11,21 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be defined by relative or absolute path.
+# Excluded items will not be copied to the destination folder.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - publish.bat
+  - WRITING_GUIDE.md
