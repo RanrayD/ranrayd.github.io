@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
-title: Ranray's homepage
-description: A personal blog of a cybersecurity professional, linked to the WeChat public account – CyberOutShare
+title: Ranray's Blog
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  一名网络安全从业者的个人博客，关联微信公众号——CyberOutShare
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ranrayd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: RanrayD
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
